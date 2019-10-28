@@ -1,7 +1,7 @@
 # Open-Lab-02.06
 (5 XP) A function that checks if a number is divisible by 100.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Calculator.cs`.
 4. Implement the method `Divisible(int number)` that checks if a number is divisible by 100.
